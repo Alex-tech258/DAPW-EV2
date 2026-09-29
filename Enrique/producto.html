@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Producto — Celulares Don Kikin</title>
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body data-pagina="producto">
+
+<header class="encabezado" id="encabezado-sitio"></header>
+
+<main class="contenedor">
+  <p class="migas-pan"><a href="index.html">Inicio</a> / <span id="migas-actual">Producto</span></p>
+
+  <div class="diseno-producto">
+    <div class="galeria-producto">
+      <div class="marco-imagen-principal" id="marco-imagen-principal">
+        <div class="imagen-principal" id="imagen-principal"></div>
+      </div>
+      <div class="miniaturas-foto" id="miniaturas-foto"></div>
+    </div>
+    <div class="info-producto">
+      <div class="dp-marca" id="dp-marca"></div>
+      <h1 class="dp-titulo" id="dp-titulo"></h1>
+      <div class="dp-precio" id="dp-precio"></div>
+
+      <div class="selector-color">
+        <div class="etiqueta-opcion">Color: <b id="etiqueta-color-actual"></b></div>
+        <div class="muestras-color" id="muestras-color"></div>
+      </div>
+
+      <div class="fila-cantidad">
+        <span style="color:var(--tenue);font-size:.82rem;">Cantidad</span>
+        <div class="control-cantidad">
+          <button id="cantidad-menos" type="button">−</button>
+          <span id="cantidad-valor">1</span>
+          <button id="cantidad-mas" type="button">+</button>
+        </div>
+      </div>
+
+      <div class="acciones-producto">
+        <button class="boton-primario" id="boton-agregar-carrito">Agregar al carrito</button>
+        <a href="carrito.html" class="boton-secundario">Ver carrito</a>
+      </div>
+
+      <div class="tabla-especificaciones">
+        <div class="fila"><span>Pantalla</span><span id="esp-pantalla"></span></div>
+        <div class="fila"><span>Memoria RAM</span><span id="esp-ram"></span></div>
+        <div class="fila"><span>Cámara principal</span><span id="esp-camara"></span></div>
+        <div class="fila"><span>Batería</span><span id="esp-bateria"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <section>
+    <div class="titulo-seccion"><h2>Otros celulares</h2></div>
+    <div class="franja-relacionados" id="franja-relacionados"></div>
+  </section>
+</main>
+
+<footer class="pie-sitio">
+  <div class="contenedor">Celulares Don Kikin | profe tengo sueño</div>
+</footer>
+
+<script src="js/datos.js"></script>
+<script src="js/comun.js"></script>
+<script src="js/paginas.js"></script>
+</body>
+</html>

@@ -1,0 +1,462 @@
+[
+  {
+    "id": "p1",
+    "marca": "Samsung",
+    "modelo": "Galaxy S24 Ultra",
+    "nombre": "Samsung Galaxy S24 Ultra",
+    "precio": 27999,
+    "pantalla": "6.8\"",
+    "ram": "12 GB",
+    "camara": "200 MP",
+    "bateria": "5000 mAh",
+    "colores": [
+      {
+        "nombre": "Azul Titanio",
+        "hex": "#3a5a78"
+      },
+      {
+        "nombre": "Lavanda",
+        "hex": "#c9c2e0"
+      },
+      {
+        "nombre": "Negro Medianoche",
+        "hex": "#1b1c1f"
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "marca": "Samsung",
+    "modelo": "Galaxy S24+",
+    "nombre": "Samsung Galaxy S24+",
+    "precio": 22999,
+    "pantalla": "6.7\"",
+    "ram": "12 GB",
+    "camara": "50 MP",
+    "bateria": "4900 mAh",
+    "colores": [
+      {
+        "nombre": "Plata",
+        "hex": "#c7c9cc"
+      },
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "marca": "Samsung",
+    "modelo": "Galaxy Z Flip 5",
+    "nombre": "Samsung Galaxy Z Flip 5",
+    "precio": 19999,
+    "pantalla": "6.7\"",
+    "ram": "8 GB",
+    "camara": "12 MP",
+    "bateria": "3700 mAh",
+    "colores": [
+      {
+        "nombre": "Violeta",
+        "hex": "#6d5c9c"
+      },
+      {
+        "nombre": "Negro Medianoche",
+        "hex": "#1b1c1f"
+      },
+      {
+        "nombre": "Verde Bosque",
+        "hex": "#2f4a3c"
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "marca": "Samsung",
+    "modelo": "Galaxy A55",
+    "nombre": "Samsung Galaxy A55",
+    "precio": 8999,
+    "pantalla": "6.6\"",
+    "ram": "8 GB",
+    "camara": "50 MP",
+    "bateria": "5000 mAh",
+    "colores": [
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      },
+      {
+        "nombre": "Lavanda",
+        "hex": "#c9c2e0"
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "marca": "Samsung",
+    "modelo": "Galaxy A35",
+    "nombre": "Samsung Galaxy A35",
+    "precio": 6999,
+    "pantalla": "6.6\"",
+    "ram": "6 GB",
+    "camara": "50 MP",
+    "bateria": "5000 mAh",
+    "colores": [
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      },
+      {
+        "nombre": "Verde Bosque",
+        "hex": "#2f4a3c"
+      },
+      {
+        "nombre": "Violeta",
+        "hex": "#6d5c9c"
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "marca": "Apple",
+    "modelo": "iPhone 15 Pro Max",
+    "nombre": "Apple iPhone 15 Pro Max",
+    "precio": 29999,
+    "pantalla": "6.7\"",
+    "ram": "8 GB",
+    "camara": "48 MP",
+    "bateria": "4441 mAh",
+    "colores": [
+      {
+        "nombre": "Violeta",
+        "hex": "#6d5c9c"
+      },
+      {
+        "nombre": "Lavanda",
+        "hex": "#c9c2e0"
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "marca": "Apple",
+    "modelo": "iPhone 15 Pro",
+    "nombre": "Apple iPhone 15 Pro",
+    "precio": 25999,
+    "pantalla": "6.1\"",
+    "ram": "8 GB",
+    "camara": "48 MP",
+    "bateria": "3274 mAh",
+    "colores": [
+      {
+        "nombre": "Verde Bosque",
+        "hex": "#2f4a3c"
+      },
+      {
+        "nombre": "Negro Medianoche",
+        "hex": "#1b1c1f"
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "marca": "Apple",
+    "modelo": "iPhone 15",
+    "nombre": "Apple iPhone 15",
+    "precio": 19999,
+    "pantalla": "6.1\"",
+    "ram": "6 GB",
+    "camara": "48 MP",
+    "bateria": "3349 mAh",
+    "colores": [
+      {
+        "nombre": "Dorado Rosa",
+        "hex": "#d9b3a8"
+      },
+      {
+        "nombre": "Lavanda",
+        "hex": "#c9c2e0"
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "marca": "Apple",
+    "modelo": "iPhone 14",
+    "nombre": "Apple iPhone 14",
+    "precio": 16999,
+    "pantalla": "6.1\"",
+    "ram": "6 GB",
+    "camara": "12 MP",
+    "bateria": "3279 mAh",
+    "colores": [
+      {
+        "nombre": "Plata",
+        "hex": "#c7c9cc"
+      },
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "marca": "Apple",
+    "modelo": "iPhone 13",
+    "nombre": "Apple iPhone 13",
+    "precio": 13999,
+    "pantalla": "6.1\"",
+    "ram": "4 GB",
+    "camara": "12 MP",
+    "bateria": "3240 mAh",
+    "colores": [
+      {
+        "nombre": "Plata",
+        "hex": "#c7c9cc"
+      },
+      {
+        "nombre": "Azul Titanio",
+        "hex": "#3a5a78"
+      },
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 13 Pro",
+    "nombre": "Xiaomi Redmi Note 13 Pro",
+    "precio": 6999,
+    "pantalla": "6.67\"",
+    "ram": "8 GB",
+    "camara": "200 MP",
+    "bateria": "5100 mAh",
+    "colores": [
+      {
+        "nombre": "Violeta",
+        "hex": "#6d5c9c"
+      },
+      {
+        "nombre": "Negro Medianoche",
+        "hex": "#1b1c1f"
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 12",
+    "nombre": "Xiaomi Redmi Note 12",
+    "precio": 4599,
+    "pantalla": "6.67\"",
+    "ram": "6 GB",
+    "camara": "50 MP",
+    "bateria": "5000 mAh",
+    "colores": [
+      {
+        "nombre": "Rojo Coral",
+        "hex": "#b5423a"
+      },
+      {
+        "nombre": "Plata",
+        "hex": "#c7c9cc"
+      }
+    ]
+  },
+  {
+    "id": "p15",
+    "marca": "Xiaomi",
+    "modelo": "POCO X6 Pro",
+    "nombre": "Xiaomi POCO X6 Pro",
+    "precio": 7499,
+    "pantalla": "6.67\"",
+    "ram": "8 GB",
+    "camara": "64 MP",
+    "bateria": "5000 mAh",
+    "colores": [
+      {
+        "nombre": "Grafito",
+        "hex": "#4a4c50"
+      },
+      {
+        "nombre": "Rojo Coral",
+        "hex": "#b5423a"
+      },
+      {
+        "nombre": "Plata",
+        "hex": "#c7c9cc"
+      }
+    ]
+  },
+  {
+    "id": "p17",
+    "marca": "Motorola",
+    "modelo": "Edge 40 Pro",
+    "nombre": "Motorola Edge 40 Pro",
+    "precio": 15999,
+    "pantalla": "6.67\"",
+    "ram": "12 GB",
+    "camara": "50 MP",
+    "bateria": "4600 mAh",
+    "colores": [
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      },
+      {
+        "nombre": "Dorado Rosa",
+        "hex": "#d9b3a8"
+      }
+    ]
+  },
+  {
+    "id": "p18",
+    "marca": "Motorola",
+    "modelo": "Moto G84",
+    "nombre": "Motorola Moto G84",
+    "precio": 5499,
+    "pantalla": "6.5\"",
+    "ram": "8 GB",
+    "camara": "50 MP",
+    "bateria": "5000 mAh",
+    "colores": [
+      {
+        "nombre": "Grafito",
+        "hex": "#4a4c50"
+      },
+      {
+        "nombre": "Rojo Coral",
+        "hex": "#b5423a"
+      },
+      {
+        "nombre": "Dorado Rosa",
+        "hex": "#d9b3a8"
+      }
+    ]
+  },
+  {
+    "id": "p19",
+    "marca": "Motorola",
+    "modelo": "Moto G54",
+    "nombre": "Motorola Moto G54",
+    "precio": 4299,
+    "pantalla": "6.5\"",
+    "ram": "8 GB",
+    "camara": "50 MP",
+    "bateria": "5000 mAh",
+    "colores": [
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      },
+      {
+        "nombre": "Plata",
+        "hex": "#c7c9cc"
+      }
+    ]
+  },
+  {
+    "id": "p21",
+    "marca": "Google",
+    "modelo": "Pixel 8 Pro",
+    "nombre": "Google Pixel 8 Pro",
+    "precio": 21999,
+    "pantalla": "6.7\"",
+    "ram": "12 GB",
+    "camara": "50 MP",
+    "bateria": "5050 mAh",
+    "colores": [
+      {
+        "nombre": "Lavanda",
+        "hex": "#c9c2e0"
+      },
+      {
+        "nombre": "Negro Medianoche",
+        "hex": "#1b1c1f"
+      },
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      }
+    ]
+  },
+  {
+    "id": "p22",
+    "marca": "Google",
+    "modelo": "Pixel 8",
+    "nombre": "Google Pixel 8",
+    "precio": 15999,
+    "pantalla": "6.2\"",
+    "ram": "8 GB",
+    "camara": "50 MP",
+    "bateria": "4575 mAh",
+    "colores": [
+      {
+        "nombre": "Grafito",
+        "hex": "#4a4c50"
+      },
+      {
+        "nombre": "Violeta",
+        "hex": "#6d5c9c"
+      },
+      {
+        "nombre": "Rojo Coral",
+        "hex": "#b5423a"
+      }
+    ]
+  },
+  {
+    "id": "p24",
+    "marca": "Huawei",
+    "modelo": "P60 Pro",
+    "nombre": "Huawei P60 Pro",
+    "precio": 19999,
+    "pantalla": "6.67\"",
+    "ram": "8 GB",
+    "camara": "48 MP",
+    "bateria": "4815 mAh",
+    "colores": [
+      {
+        "nombre": "Blanco Perla",
+        "hex": "#f3f2ee"
+      },
+      {
+        "nombre": "Negro Medianoche",
+        "hex": "#1b1c1f"
+      },
+      {
+        "nombre": "Dorado Rosa",
+        "hex": "#d9b3a8"
+      }
+    ]
+  },
+  {
+    "id": "p25",
+    "marca": "Huawei",
+    "modelo": "Nova 11",
+    "nombre": "Huawei Nova 11",
+    "precio": 7999,
+    "pantalla": "6.7\"",
+    "ram": "8 GB",
+    "camara": "50 MP",
+    "bateria": "4500 mAh",
+    "colores": [
+      {
+        "nombre": "Dorado Rosa",
+        "hex": "#d9b3a8"
+      },
+      {
+        "nombre": "Lavanda",
+        "hex": "#c9c2e0"
+      },
+      {
+        "nombre": "Grafito",
+        "hex": "#4a4c50"
+      }
+    ]
+  }
+]
